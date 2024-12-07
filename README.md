@@ -192,10 +192,6 @@ AUTOMATING-TEXT-EXTRACTION/
 
 | Name                             | Contribution                                                                                                                                      |
 | -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Pragnesh Anekal**              | 33% - OpenAI API integration, Streamlit integration with API, FAST API, JWT Keys, Unstructured API , Deployment                                   |
-| **Ram Kumar Ramasamy Pandiaraj** | 33% - Loading data from Hugging Face to S3, Open Source PDF Extraction, Docker, Airflow DAGs, Deployment                                          |
-| **Dipen Manoj Patel**            | 33% - Streamlit UI for Predicting Page, User Registration and Authentication, Dockerizing Fast API, Validating Answers flow, reading data from DB |
+| **Shreeanant Bharadwaj**              |  - OpenAI API integration, Streamlit integration with API, FAST API, JWT Keys, Unstructured API , Deployment  |                                  Loading data from Hugging Face to S3, Open Source PDF Extraction, Docker, Airflow DAGs, Deployment 
+ Streamlit UI for Predicting Page, User Registration and Authentication, Dockerizing Fast API, Validating Answers flow, reading data|
 
-## Attestation
-
-**WE ATTEST THAT WE HAVEN’T USED ANY OTHER STUDENTS’ WORK IN OUR ASSIGNMENT AND ABIDE BY THE POLICIES LISTED IN THE STUDENT HANDBOOK.**
