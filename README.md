@@ -7,7 +7,7 @@ This project automates the extraction of text from PDF files using two different
 
 ## Project Resources
 
-- **Google Codelab**: [Codelab Link](https://codelabs-preview.appspot.com/?file_id=18miWKQAQ-EmqhbfCJc3A3ZqL-mmLPrhl1bHLGDUTXeY)
+- **Documentation Link**: [Documentation Link](https://drive.google.com/file/d/1SvAZh8sSY4HxjZX2aEFn2qRN-IAbtTUz/view?usp=sharing)
 - **App (Deployed on AWS EC2)**: [Streamlit Link](http://75.101.133.31:8501/)
 - **Airflow (Deployed on AWS EC2)**: [Airflow Link](http://75.101.133.31:8080/)
 - **YouTube Demo**: [Demo Link](https://www.youtube.com/watch?v=RE07uCmvzho)
