@@ -1,6 +1,5 @@
-# automating-text-extraction-and-client-facing-application
+# Context-Aware Q&A Chatbot For Text Genreration With Client Facing Application (LangChain and Hugging Face)
 
-# Automating Text Extraction and Client-Facing Application
 
 ## Overview
 
