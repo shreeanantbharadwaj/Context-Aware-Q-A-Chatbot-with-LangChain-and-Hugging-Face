@@ -189,5 +189,5 @@ AUTOMATING-TEXT-EXTRACTION/
 
 ## Contributions
 
-**Shreeanant Bharadwaj** - OpenAI API integration, Streamlit integration with API, FAST API, JWT Keys, Unstructured API , Deployment                                    Loading data from Hugging Face to S3, Open Source PDF Extraction, Docker, Airflow DAGs, Deployment, Streamlit UI for Predicting Page, User Registration and Authentication, Dockerizing Fast API, Validating Answers flow, reading data
+**Shreeanant Bharadwaj** - OpenAI API integration, Streamlit integration with API, FAST API, JWT Keys, Unstructured API, Deployment, Loading data from Hugging Face to S3, Open Source PDF Extraction, Docker, Airflow DAGs, Deployment, Streamlit UI for Predicting Page, User Registration and Authentication, Dockerizing Fast API, Validating Answers flow, reading data
 
