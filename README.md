@@ -8,8 +8,7 @@ This project automates the extraction of text from PDF files using two different
 ## Project Resources
 
 - **Documentation Link**: [Documentation Link](https://drive.google.com/file/d/1wb3o9Y2IlUHTdVyuTxSzPWMM7XSJbB0o/view?usp=sharing)
-- **App (Deployed on AWS EC2)**: [Streamlit Link](http://75.101.133.31:8501/)
-- **Airflow (Deployed on AWS EC2)**: [Airflow Link](http://75.101.133.31:8080/)
+
 - **YouTube Demo**: [Demo Link](https://youtu.be/XUgFMyqDbh8)
 
 ## Technologies
